@@ -1,4 +1,8 @@
 # Deploy Rust as an Azure Function
+
+[![Demo functions-actions](https://github.com/ufuos10/rust-azure-function/actions/workflows/deploy.yml/badge.svg)](https://github.com/ufuos10/rust-azure-function/actions/workflows/deploy.yml)
+
+
 Continuous deployment to Azure Functions using Rust and GitHub Actions. This repository contains a sample Rust application that can be deployed to Azure Functions using GitHub Actions. Although not a requirement it is easier to use [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-0000-alfredodeza) for development. 
 
 This repository is part of a [Coursera MLOps course offered by Duke University](https://www.coursera.org/learn/mlops-aws-azure-duke)
